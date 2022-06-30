@@ -1,0 +1,5 @@
+﻿  parametrs.cpp
+D:\repos\Курсач 1.0\parametrs.cpp(43): warning C4715: Theta: значение возвращается не при всех путях выполнения
+D:\repos\Курсач 1.0\parametrs.cpp(70): warning C4715: Ubeta: значение возвращается не при всех путях выполнения
+D:\repos\Курсач 1.0\parametrs.cpp(97): warning C4715: Ug: значение возвращается не при всех путях выполнения
+  Курсач 1.0.vcxproj -> D:\repos\Курсач 1.0\Debug\Курсач 1.0.exe
